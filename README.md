@@ -58,8 +58,7 @@ The code is written in C++ using the Arduino development environment.
 
 ## Screenshots
 
-- [View Timer Screenshot 1](ae0c3f76-1fd3-4ff3-a18f-d93686d1ff14.png)
-- [View Timer Screenshot 2](ee219085-c40a-4181-880f-908aafd0d4e0.png)
-
+- [Timer Screenshot 1](https://github.com/user-attachments/assets/2c0c77ee-deeb-4eb7-bcf1-50dc723c4b87)
+- [Timer Screenshot 2](https://github.com/user-attachments/assets/45b0814c-3b1e-4dcb-b8bb-8ca5ecaf4581)
 
 ---
