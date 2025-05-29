@@ -56,8 +56,8 @@ Installable via Arduino Library Manager:
 
 The code is written in C++ using the Arduino development environment.
 
-## 📸 Screenshots
+##  Pictures
 
-![UI Screenshot](docs/ui-example.png) *(Optional if you upload screenshots)*
+![UI Screenshot](docs/ui-example.png) 
 
 ---
