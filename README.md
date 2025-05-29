@@ -58,8 +58,8 @@ The code is written in C++ using the Arduino development environment.
 
 ##  Pictures
 
-![UI Images](docs/ui-example.png) 
-![timer](https://github.com/user-attachments/assets/2c0c77ee-deeb-4eb7-bcf1-50dc723c4b87)
-![timer2](https://github.com/user-attachments/assets/45b0814c-3b1e-4dcb-b8bb-8ca5ecaf4581)
+![UI Images](![timer](https://github.com/user-attachments/assets/2c0c77ee-deeb-4eb7-bcf1-50dc723c4b87)
+![timer2](https://github.com/user-attachments/assets/45b0814c-3b1e-4dcb-b8bb-8ca5ecaf4581)) 
+
 
 ---
