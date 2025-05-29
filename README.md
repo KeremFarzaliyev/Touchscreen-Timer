@@ -58,6 +58,6 @@ The code is written in C++ using the Arduino development environment.
 
 ##  Pictures
 
-![UI Screenshot](docs/ui-example.png) 
+![UI Images](docs/ui-example.png) 
 
 ---
